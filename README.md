@@ -1,1 +1,1 @@
-# C/C++ Programming for data Structure and algorithm
+# C/C++ Programming for Data Structure and Algorithm.
